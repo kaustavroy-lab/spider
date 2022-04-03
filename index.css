@@ -302,23 +302,6 @@ input:focus, textarea:focus, select:focus
    -webkit-transition: all 500ms linear 0ms;
    transition: all 500ms linear 0ms;
 }
-#headerLabel2
-{
-   border: 0px solid #000000;
-   border-radius: 4px;
-   background-color: transparent;
-   background-image: none;
-   color: #000000;
-   font-family: Arial;
-   font-weight: 0;
-   font-style: normal;
-   font-size: 15px;
-   box-sizing: border-box;
-   padding: 8px 4px 8px 4px;
-   margin: 0;
-   text-align: left;
-   vertical-align: top;
-}
 #wb_headerIcon3
 {
    background-color: transparent;
@@ -2045,22 +2028,6 @@ width: 100%;}
    height: 0;
    line-height: 0;
 }
-#indexLabel1
-{
-   border: 0px solid #000000;
-   border-radius: 4px;
-   background-color: transparent;
-   background-image: none;
-   color: #000000;
-   font-family: Arial;
-   font-weight: 0;
-   font-style: normal;
-   font-size: 15px;
-   padding: 8px 4px 8px 4px;
-   margin: 0;
-   text-align: left;
-   vertical-align: top;
-}
 #wb_indexIconFont1
 {
    background-color: transparent;
@@ -2159,6 +2126,23 @@ width: 100%;}
 {
    -webkit-transition: all 500ms linear 0ms;
    transition: all 500ms linear 0ms;
+}
+#indexLabel1
+{
+   border: 0px solid #000000;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color: #000000;
+   font-family: Arial;
+   font-weight: 0;
+   font-style: normal;
+   font-size: 15px;
+   box-sizing: border-box;
+   padding: 8px 4px 8px 4px;
+   margin: 0;
+   text-align: left;
+   vertical-align: top;
 }
 #indexLabel3
 {
