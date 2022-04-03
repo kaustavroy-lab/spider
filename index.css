@@ -134,7 +134,7 @@ input:focus, textarea:focus, select:focus
    display: table;
    text-align: center;
    width: 100%;
-   background-color: rgba(232,213,198,0.20);
+   background-color: rgba(174,94,39,0.20);
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -907,7 +907,7 @@ input:focus, textarea:focus, select:focus
    position: relative;
    padding: 10px 10px 10px 10px;
    margin: 0;
-   background-color: rgba(232,213,198,0.20);
+   background-color: rgba(174,94,39,0.20);
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -992,7 +992,7 @@ input:focus, textarea:focus, select:focus
    display: table;
    text-align: center;
    width: 100%;
-   background-color: rgba(232,213,198,0.20);
+   background-color: rgba(174,94,39,0.20);
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -1239,7 +1239,7 @@ input:focus, textarea:focus, select:focus
    display: table;
    text-align: center;
    width: 100%;
-   background-color: rgba(232,213,198,0.20);
+   background-color: rgba(174,94,39,0.20);
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -1369,7 +1369,7 @@ input:focus, textarea:focus, select:focus
    display: table;
    text-align: center;
    width: 100%;
-   background-color: rgba(232,213,198,0.20);
+   background-color: rgba(174,94,39,0.20);
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -1521,7 +1521,7 @@ input:focus, textarea:focus, select:focus
    display: table;
    text-align: center;
    width: 100%;
-   background-color: rgba(232,213,198,0.20);
+   background-color: rgba(174,94,39,0.20);
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
